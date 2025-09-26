@@ -25,7 +25,7 @@ Das Dashboard liefert insbesondere Einblicke in die folgenden Bereiche:
 
 <br/><br/>
 Ausführung der im Projekt genutzten Kenntnisse [hier](#genutzte-kenntnisse)  
-Interaktive Dashboards und Einsicht in DAX-Code hier 
+Interaktive Dashboards und Einsicht in DAX-Code [hier](/Supermarket%20Dashboard.pbix)
 <br/><br/>
 
 ## Datenstruktur
