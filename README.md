@@ -49,7 +49,7 @@ Dieses Dashboard bietet einen Überblick über zentrale KPIs und den jeweiligen 
 <br/><br/>
 
 **Zeile 1: Aktuelle Trends in KPIs** 
-- Der Umsatz zeigt aktuell eine Steigung von 35% und der durchschnittliche Einkaufswert ist ebenfalls um 38% zum Vorjahr gestiegen.Bei einer stabilen Transaktionsanzahl (-2%) ist dieser Anstieg auf um 13% höhere Produktpreise und ein gestiegenes Volumen pro Einkauf zurückzuführen.
+- Der Umsatz zeigt aktuell eine Steigung von 35% und der durchschnittliche Einkaufswert ist ebenfalls um 38% zum Vorjahr gestiegen. Bei einer stabilen Transaktionsanzahl (-2%) ist dieser Anstieg auf um 13% höhere Produktpreise und ein gestiegenes Volumen pro Einkauf zurückzuführen.
 <br/><br/>
 
 **Zeile 2: Historischer Verkaufstrend** 
