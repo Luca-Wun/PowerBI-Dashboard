@@ -14,7 +14,7 @@
 
 ## Hintergrund und Übersicht
 
-Dieses Projekt analysiert und visualisiert die Verkaufdaten eines chinesischen Supermarkts im Zeitraum 2020 bis 2023 - mit Fokus auf die Produktkategorie Gemüse. Das Unternehmen stellt ausführliche Daten zu Transaktionen, Preisen, Produktsortiment und Verlustraten zur Verfügung. Diese Informationen werden in diesem Projekt aufbereitet, analysiert und anhand der wichtigsten Kennzahlen übersichtlich dargestellt, um Vertriebs- und Produktverantwortlichen einen schnellen Einblick in aktuelle Entwicklungen und Optimierungspotenziale zu ermöglichen. Optional können Geldbeträge auf Basis historischer Wechselkurse in Euro dargestellt werden, um internationale Vergleiche zu ermöglichen.
+Dieses Projekt analysiert und visualisiert die Verkaufdaten eines chinesischen Supermarkts im Zeitraum 2020 bis 2023 - mit Fokus auf der Produktkategorie Gemüse. Das Unternehmen stellt ausführliche Daten zu Transaktionen, Preisen, Produktsortiment und Verlustraten zur Verfügung. Diese Informationen werden in diesem Projekt aufbereitet, analysiert und anhand der wichtigsten Kennzahlen übersichtlich dargestellt, um Vertriebs- und Produktverantwortlichen einen schnellen Einblick in aktuelle Entwicklungen und Optimierungspotenziale zu ermöglichen. Optional können Geldbeträge auf Basis historischer Wechselkurse in Euro dargestellt werden, um internationale Vergleiche zu ermöglichen.
 
 Das Dashboard liefert insbesondere Einblicke in die folgenden Bereiche:
 - **Aktueller Trend in KPIs**: Darstellung von KPIs mit Trend des letzten Monats für schnelle Einsicht in tägliche Veränderung
@@ -45,7 +45,7 @@ Nach einem Peak im Februar 2021 verzeichnete das Unternehmen im zweiten Halbjahr
 ### Revenue Insights: Dashboard und Analyse
 
 ![Dashboard Revenue Insights](/Bilder/Snapshot%20Revenue%20Dashboard.png)
-Dieses Dashboard bietet einen Überblick über zentrale KPIs und den jeweiligen YOY Trend basierend auf den letzten 30 Tagen. Es bietet zudem Einblick Verkaufszahlen und Verkaufspreise über die Zeit. Die dritte Zeile bietet Einblick in die Leistung der verschiedenen Produktkategorien.
+Dieses Dashboard bietet einen Überblick über zentrale KPIs und den jeweiligen YOY Trend basierend auf den letzten 30 Tagen. Es bietet zudem Einblick in Verkaufszahlen und Verkaufspreise über die Zeit. Die dritte Zeile zeigt die Leistung der verschiedenen Produktkategorien.
 <br/><br/>
 
 **Zeile 1: Aktuelle Trends in KPIs** 
@@ -98,17 +98,17 @@ Dieses Dashboard ist für tiefere Einblicke in die Leistung einzelner Produktkat
 
 - **Währungsumrechnung**: Die sichtbaren Trends hängen bei Umrechung in EUR auch von der Fluktuation des Wechselkurses vom RMB in Euro ab. Dies muss bei der Trendanalyse beachtet werden. Alle Metriken können aber in der Originalwährung betrachtet werden.
 
-- **Verlustraten**: Die Verlustraten liegen nicht historisch vor und bieten damit nur einen groben Einblick in durschnittlichen Verlust pro Produkt.
+- **Verlustraten**: Die Verlustraten liegen nicht historisch vor und bieten damit nur einen groben Einblick in den durchschnittlichen Verlust pro Produkt.
 <br/><br/>
 
 ## Genutzte Kenntnisse
 
 - **Datentransformation (ETL) mit Power Query**: Änderung Datentypen, Erstellen Composite Key, Quelle zur historischen Währungstransformation integriert und angepasst
 
-- **Datenmodellierung**: Erstellung eines effizienten Datenmodels im  Sternschema
+- **Datenmodellierung**: Erstellung eines effizienten Datenmodels im Sternschema
 
 - **DAX**: Explizite Measures wie Gewinn, Profit und Marge im angemessenen Filterkontext mit zentralen DAX-Funktionen berechnen
 
-- **Visualisierung und Dashboard Design**: Erstellen von KPI-Cards mit Trends, Tabellen und Diagrammen und bedingter Formatierung um wichtigste Kennzahlen übersichtlich darzustellen
+- **Visualisierung und Dashboard Design**: Erstellen von KPI-Cards mit Trends, Tabellen, Diagrammen und bedingter Formatierung um wichtigste Kennzahlen übersichtlich darzustellen
 
 - **Nutzerkontrolle**: Datenschnitte und Parameter zum Wählen von Kategorie, Zeit, Währung und Kennzahl
