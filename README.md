@@ -112,3 +112,7 @@ Dieses Dashboard ist für tiefere Einblicke in die Leistung einzelner Produktkat
 - **Visualisierung und Dashboard Design**: Erstellen von KPI-Cards mit Trends, Tabellen, Diagrammen und bedingter Formatierung um wichtigste Kennzahlen übersichtlich darzustellen
 
 - **Nutzerkontrolle**: Datenschnitte und Parameter zum Wählen von Kategorie, Zeit, Währung und Kennzahl
+
+<br/><br/>
+
+Dieses Projekt nutzt die unter einer CC BY-NC-SA 4.0 veröffentlichten Daten eines fiktionalen Unternehmens. Die originalen Datensets sind [hier](https://www.kaggle.com/datasets/yapwh1208/supermarket-sales-data/data) zu finden.
